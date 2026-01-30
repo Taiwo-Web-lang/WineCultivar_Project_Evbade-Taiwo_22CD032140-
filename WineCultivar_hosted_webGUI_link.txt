@@ -2,5 +2,6 @@ Name: Evbade Taiwo
 Matric Number:22CD032140
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: https://winecultivaroriginfour.onrender.com/
+Live URL: https://winecultivar-project-evbade-taiwo-pkv1.onrender.com/
+
 GitHub Repository: https://github.com/Gbeke18/WineCultivarOriginFour
