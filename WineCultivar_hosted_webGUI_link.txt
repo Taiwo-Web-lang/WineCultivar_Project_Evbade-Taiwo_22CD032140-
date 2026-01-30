@@ -4,4 +4,5 @@ Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
 Live URL: https://winecultivar-project-evbade-taiwo-pkv1.onrender.com/
 
-GitHub Repository: https://github.com/Gbeke18/WineCultivarOriginFour
+GitHub Repository: https://github.com/Taiwo-Web-lang/WineCultivar_Project_Evbade-Taiwo_22CD032140-/tree/main
+
